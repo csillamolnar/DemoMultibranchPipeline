@@ -50,7 +50,7 @@ node {
         bat 'mvn package'
 
     }
-}
+
 
 
 
